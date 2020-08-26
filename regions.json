@@ -1,0 +1,21 @@
+{
+  "tw": "asia-east1",
+  "hk": "asia-east2",
+  "jp": "asia-northeast1",
+  "kr": "asia-northeast3",
+  "in": "asia-south1",
+  "sg": "asia-southeast1",
+  "id": "asia-southeast2",
+  "au": "australia-southeast1",
+  "fi": "europe-north1",
+  "be": "europe-west1",
+  "gb": "europe-west2",
+  "de": "europe-west3",
+  "nl": "europe-west4",
+  "ch": "europe-west6",
+  "ca": "northamerica-northeast1",
+  "br": "southamerica-east1",
+  "us-central": "us-central1",
+  "us-east": "us-east1",
+  "us-west": "us-west1"
+}
